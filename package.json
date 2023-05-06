@@ -1,0 +1,43 @@
+{
+  "name": "add-recipe-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "caniuse-lite": "^1.0.30001481",
+    "cra-template": "1.0.3",
+    "fs-extra": "^11.1.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^16.13.1",
+    "react-icons": "^4.8.0",
+    "react-router-dom": "^5.3.4",
+    "react-scripts": "3.4.1",
+    "react-sticky-footer": "0.1.0-rc3",
+    "reactstrap": "^8.10.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
+  }
+}
